@@ -1,7 +1,7 @@
 # authentication page
-   sign up
-   log in 
-   log out
+   . sign up
+   . log in 
+   . log out
 A new Flutter project.
 
 ## Getting Started
